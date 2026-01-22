@@ -66,13 +66,6 @@ The lab focuses on core enterprise networking concepts such as VLAN segmentation
 
 ---
 
-## 📂 Files Included
-- `enterprise_network.pkt` – Cisco Packet Tracer lab file
-- `enterprise_network_topology.png` – Network topology diagram
-- `configs/` – Device configuration files (CLI)
-- `notes/` – Design explanations and observations
-
----
 
 ## 🧠 Key Learning Outcomes
 - Enterprise VLAN and redundancy design
