@@ -1,6 +1,7 @@
 # Enterprise-Network-Design-VLANs-DTP-HSRP-OSPF-NAT-VPN
 
 ## 📌 Overview
+https://github.com/PremRai345/Enterprise-Network-Design-VLANs-DTP-HSRP-OSPF-NAT-VPN/blob/cbd5d62f6de3c2a4f2d2640a8e6324364e1286e5/Screenshot%202026-01-22%20at%203.25.41%20pm.jpg
 This project demonstrates the design and implementation of a real-world enterprise network topology using Cisco Packet Tracer.  
 The network simulates a Head Office (HQ) and a Branch Office connected securely over a public ISP using a GRE tunnel VPN.
 
