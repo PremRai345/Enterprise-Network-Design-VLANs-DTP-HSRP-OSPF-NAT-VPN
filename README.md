@@ -88,7 +88,6 @@ The lab focuses on core enterprise networking concepts such as VLAN segmentation
 - Add ACLs for inter-VLAN security
 - Implement IPsec over GRE
 - Add monitoring (SNMP, Syslog)
-- Convert lab to GNS3 / EVE-NG
 
 ---
 
