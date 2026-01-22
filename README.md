@@ -1,6 +1,4 @@
 # Enterprise-Network-Design-VLANs-DTP-HSRP-OSPF-NAT-VPN
-Enterprise multi-site network design using Cisco Packet Tracer featuring VLANs, DTP, HSRP, OSPF, NAT, VPN
-# Enterprise Multi-Site Network Design (Cisco Packet Tracer)
 
 ## 📌 Overview
 This project demonstrates the design and implementation of a real-world enterprise network topology using Cisco Packet Tracer.  
